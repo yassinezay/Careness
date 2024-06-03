@@ -1,0 +1,79 @@
+<RCC>
+    <qresource prefix="/new/prefix1">
+        <file>images/about.png</file>
+        <file>images/about2.png</file>
+        <file>images/actualiser.png</file>
+        <file>images/ajouter.png</file>
+        <file>images/BQCK.png</file>
+        <file>images/check.png</file>
+        <file>images/crayon (1).png</file>
+        <file>images/crayon.png</file>
+        <file>images/cross-small (1).png</file>
+        <file>images/cross-small.png</file>
+        <file>images/fleche-petite-gauche (1).png</file>
+        <file>images/fleche-petite-gauche.png</file>
+        <file>images/historique.png</file>
+        <file>images/home-button (2).png</file>
+        <file>images/interrogatoire.png</file>
+        <file>images/Logo.png</file>
+        <file>images/logout.png</file>
+        <file>images/logout1.png</file>
+        <file>images/logout2.png</file>
+        <file>images/logout4.png</file>
+        <file>images/management (1).png</file>
+        <file>images/message.png</file>
+        <file>images/modifier.png</file>
+        <file>images/poubelle (1).png</file>
+        <file>images/poubelle.png</file>
+        <file>images/pr.png</file>
+        <file>images/profil.png</file>
+        <file>images/rm222batch2-mind-03.png</file>
+        <file>images/sortir.png</file>
+        <file>images/trash.png</file>
+        <file>images/trier.png</file>
+        <file>images/employee.png</file>
+        <file>images/enfant.png</file>
+        <file>images/evenement.png</file>
+        <file>images/partenaire.png</file>
+        <file>images/stock.png</file>
+        <file>images/loupe.png</file>
+        <file>images/pdf.png</file>
+        <file>images/stats.png</file>
+        <file>images/export.png</file>
+        <file>images/fleche-droite.png</file>
+        <file>images/BACKDARK.png</file>
+        <file>images/night-mode.png</file>
+        <file>images/ajoutsound.wav</file>
+        <file>images/mixkit-game-click-1114.wav</file>
+        <file>images/soundactive.wav</file>
+        <file>images/sounddesactive.wav</file>
+        <file>images/param.png</file>
+        <file>images/print.png</file>
+        <file>images/day-mode.png</file>
+        <file>images/soundm2.wav</file>
+        <file>images/soundim1.png</file>
+        <file>images/soundim2.png</file>
+        <file>images/fullscreen.png</file>
+        <file>images/normal.png</file>
+        <file>images/arabe.qm</file>
+        <file>images/anglais.qm</file>
+        <file>images/francais.qm</file>
+        <file>images/photo.png</file>
+        <file>images/Account.jpg</file>
+        <file>images/night-mode1.png</file>
+        <file>images/day-mode1.png</file>
+        <file>images/normal1.png</file>
+        <file>images/soundim11.png</file>
+        <file>images/soundim21.png</file>
+        <file>images/fullscreen1.png</file>
+        <file>images/video.mp4</file>
+        <file>images/videop.webm</file>
+        <file>images/video.wmv</file>
+        <file>images/kids.png</file>
+        <file>images/tech.png</file>
+        <file>images/tech1.png</file>
+    </qresource>
+    <qresource prefix="/">
+        <file>map.qml</file>
+    </qresource>
+</RCC>
